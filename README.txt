@@ -13,4 +13,6 @@ Qendro, E-J - 300521778
 Product Name: PhoneBuilder
 
 Description:
-Build your perfect phone with the help of an AI assistant. Tell it how you use your phone, what matters most to you and your budget, and it'll guide you through options like camera, battery, storage and design. You end up with a phone made just for you.
+Build your perfect phone with the help of an AI assistant.
+Tell it how you use your phone, what matters most to you and your budget, and it'll guide you through options like camera, 
+battery, storage and design. You end up with a phone made just for you.
