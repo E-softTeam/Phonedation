@@ -1,4 +1,6 @@
-Product Name: Phonedation
+Product Name: PhoneBuilder
+Team Name: Phonedation
+
 
 Description:
 Build your perfect phone with the help of an AI assistant. Tell it how you use your phone, what matters most to you and your budget, and it'll guide you through options like camera, battery, storage and design. You end up with a phone made just for you.
