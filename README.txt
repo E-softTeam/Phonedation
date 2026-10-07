@@ -1,7 +1,7 @@
 Product Name: Phonedation
 
 Description:
-An app that lets users design their own phone based on their criteria and their needs, and order it easily.
+Build your perfect phone with the help of an AI assistant. Tell it how you use your phone, what matters most to you and your budget, and it'll guide you through options like camera, battery, storage and design. You end up with a phone made just for you.
 
 Members - Student Numbers:
 Bendahmane, Ouassim - 300557412
