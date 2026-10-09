@@ -82,4 +82,8 @@ Notre IA propose des options pour chaque composant, comme l’appareil photo, la
 Les utilisateurs révisent leur configuration avec une ventilation complète des prix, ajustent ce qu’ils souhaitent et la finalisent.
 
 Ce qui nous distingue :
-Plutôt que de simplement énumérer des caractéristiques techniques, notre IA explique les compromis en langage clair, par exemple « une batterie plus grosse ajoute du poids » ou « cette amélioration de l’appareil photo vous fait dépasser votre budget de 80 $ ». Nous voulons que les utilisateurs comprennent chacun de leurs choix et gardent le contrôle sur le résultat final.
+Plutôt que de simplement énumérer des caractéristiques techniques, notre IA explique les 
+compromis en langage clair,par exemple « une batterie plus grosse ajoute 
+du poids » ou « cette amélioration de l’appareil photo vous fait dépasser votre budget de 80 $ ». 
+
+Nous voulons que les utilisateurs comprennent chacun de leurs choix et gardent le contrôle sur le résultat final.
