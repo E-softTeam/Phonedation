@@ -14,10 +14,14 @@ Product Name: PhoneBuilder
 Designed by you, guided by AI.
 
 Description:
-We are building PhoneBuilder, a platform that lets users design their ideal phone with the help of an AI assistant. Users tell it how they use their phone, what matters most to them, and what their budget is, and it guides them through choices like camera, battery, storage, and design. The result is a phone configuration built around them.
+We are building PhoneBuilder, a platform that lets users design their ideal phone with the help of an AI assistant. 
+Users tell it how they use their phone, what matters most to them, and what their budget is, and it guides them through choices
+like camera, battery, storage, and design. The result is a phone configuration built around them.
 
 The Problem:
-We noticed that most people choose from a handful of preset models and end up paying for features they don’t use, or missing ones they actually need. Comparing specs across brands is confusing and time-consuming.
+We noticed that most people choose from a handful of preset models and end up paying for 
+features they don’t use, or missing ones they actually need.
+Comparing specs across brands is confusing and time-consuming.
 
 Target Users:
 
@@ -32,7 +36,9 @@ Our AI recommends options for each component, such as camera, battery, storage, 
 Users review their build with a full price breakdown, adjust anything they like, and finalize it.
 
 What Makes It Different:
-Instead of just listing specs, our AI explains trade-offs in plain language, like “a bigger battery adds weight” or “this camera upgrade puts you $80 over budget.” We want users to understand every choice they make and stay in control of the final result.
+Instead of just listing specs, our AI explains trade-offs in plain
+language, like “a bigger battery adds weight” or “this camera upgrade puts you $80 over budget.” 
+We want users to understand every choice they make and stay in control of the final result.
 
 French:
 Nom de l’équipe : Phonedation
@@ -50,10 +56,18 @@ Nom du produit : PhoneBuilder
 Conçu par vous, guidé par l’IA.
 
 Description :
-Nous développons PhoneBuilder, une plateforme qui permet aux utilisateurs de concevoir leur téléphone idéal avec l’aide d’un assistant IA. Les utilisateurs lui expliquent comment ils utilisent leur téléphone, ce qui compte le plus pour eux et quel est leur budget, et l’assistant les guide à travers différents choix comme l’appareil photo, la batterie, le stockage et le design. Le résultat : une configuration de téléphone pensée pour eux.
+Nous développons PhoneBuilder, une plateforme qui permet aux utilisateurs de concevoir
+leur téléphone idéal avec l’aide d’un assistant IA. Les utilisateurs lui expliquent comment
+ils utilisent leur téléphone, ce qui compte le plus pour eux et quel est 
+leur budget, et l’assistant les guide à travers différents
+choix comme l’appareil photo, la batterie, le stockage et le design. 
+Le résultat : une configuration de téléphone pensée pour eux.
 
 Le problème :
-Nous avons constaté que la plupart des gens choisissent parmi une poignée de modèles prédéfinis et finissent par payer pour des fonctionnalités qu’ils n’utilisent pas, ou par se passer de celles dont ils ont réellement besoin. Comparer les caractéristiques techniques d’une marque à l’autre est déroutant et prend beaucoup de temps.
+Nous avons constaté que la plupart des gens choisissent parmi une poignée de 
+modèles prédéfinis et finissent par payer pour des fonctionnalités qu’ils 
+n’utilisent pas, ou par se passer de celles dont ils ont réellement besoin. 
+Comparer les caractéristiques techniques d’une marque à l’autre est déroutant et prend beaucoup de temps.
 
 Utilisateurs cibles :
 
